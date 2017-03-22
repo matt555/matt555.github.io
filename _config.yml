@@ -1,2 +1,3 @@
 name: Matthew Schneider
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title

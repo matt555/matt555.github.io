@@ -1,3 +1,18 @@
+_site
+.sass-cache
+.jekyll-metadata
+*.gem
+*.sublime-project
+*.sublime-workspace
+.bundle
+.DS_Store
+_asset_bundler_cache
+codekit-config.json
+example/_site
+Gemfile.lock
+node_modules
+npm-debug.log*
+.idea
 # Created by .ignore support plugin (hsz.mobi)
 ### Jekyll template
 _site/

@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Matt Schneider, site launch"
-date: 2017-03-22
+date:   2017-04-19 13:01:50 -0400
+categories: update
 ---
 
 When i joke about "blogging" something in a sarcastic tone... now i can!
